@@ -6,7 +6,7 @@ export default function service() {
     return (
         <div className={styles.container}>
         <Head>
-          <title>Create Next App</title>
+          <title>worachet | Service</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
   
